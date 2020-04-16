@@ -1,6 +1,6 @@
 ﻿namespace INDOPRIDE
 {
-    partial class Form1
+    partial class indopride
     {
         /// <summary>
         /// Required designer variable.
