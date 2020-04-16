@@ -1,0 +1,4 @@
+E:\INDOPRIDE\INDOPRIDE1\indopride1\PatchUpdate\bin\Debug\PatchUpdate.dll
+E:\INDOPRIDE\INDOPRIDE1\indopride1\PatchUpdate\bin\Debug\PatchUpdate.pdb
+E:\INDOPRIDE\INDOPRIDE1\indopride1\PatchUpdate\obj\Debug\PatchUpdate.dll
+E:\INDOPRIDE\INDOPRIDE1\indopride1\PatchUpdate\obj\Debug\PatchUpdate.pdb
