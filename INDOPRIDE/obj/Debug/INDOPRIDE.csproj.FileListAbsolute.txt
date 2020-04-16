@@ -1,7 +1,6 @@
 E:\INDOPRIDE\INDOPRIDE1\indopride1\INDOPRIDE\bin\Debug\INDOPRIDE.exe.config
 E:\INDOPRIDE\INDOPRIDE1\indopride1\INDOPRIDE\bin\Debug\INDOPRIDE.exe
 E:\INDOPRIDE\INDOPRIDE1\indopride1\INDOPRIDE\bin\Debug\INDOPRIDE.pdb
-E:\INDOPRIDE\INDOPRIDE1\indopride1\INDOPRIDE\obj\Debug\INDOPRIDE.csprojAssemblyReference.cache
 E:\INDOPRIDE\INDOPRIDE1\indopride1\INDOPRIDE\obj\Debug\INDOPRIDE.Properties.Resources.resources
 E:\INDOPRIDE\INDOPRIDE1\indopride1\INDOPRIDE\obj\Debug\INDOPRIDE.csproj.GenerateResource.cache
 E:\INDOPRIDE\INDOPRIDE1\indopride1\INDOPRIDE\obj\Debug\INDOPRIDE.exe
