@@ -38,6 +38,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -49,14 +50,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Checker.cs" />
+    <Compile Include="ClassObjectJSON.cs" />
+    <Compile Include="Downloader.cs" />
     <Compile Include="indopride.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="indopride.Designer.cs">
       <DependentUpon>indopride.cs</DependentUpon>
     </Compile>
+    <Compile Include="JSONSerializer.cs" />
+    <Compile Include="MessageBoxEx.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimpleUpdater.cs" />
     <EmbeddedResource Include="indopride.resx">
       <DependentUpon>indopride.cs</DependentUpon>
     </EmbeddedResource>
